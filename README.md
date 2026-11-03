@@ -1,7 +1,7 @@
 # Task 3: Visualization and Interpretation
 
 ## Visual Result
-![SARS-CoV-2 Nucleotide Frequencies](sars_cov_2_chart.png)
+<img width="800" height="500" alt="sars_cov_2_chart" src="https://github.com/user-attachments/assets/050e771d-3713-4a03-9a1d-62c56b9be9f9" />
 
 ## Scientific Interpretation
 
